@@ -1,0 +1,10 @@
+<resources>
+    <style name="AppTheme" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Primary/Accent bisa custom -->
+        <item name="colorPrimary">#6200EE</item>
+        <item name="colorOnPrimary">#FFFFFF</item>
+        <!-- Text global -->
+        <item name="android:textColorPrimary">@color/textPrimary</item>
+        <item name="android:textColorHint">@color/hintText</item>
+    </style>
+</resources>
