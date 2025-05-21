@@ -90,5 +90,18 @@
             android:text="@string/register"
             android:textAllCaps="false"
             android:textColor="@color/buttonText"/>
+
+        <TextView
+            android:id="@+id/tvLogin"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Sudah punya akun? Login"
+            android:textColor="@color/purple_500"
+            android:textSize="14sp"
+            android:layout_marginTop="16dp"
+            android:layout_gravity="center_horizontal"
+            android:clickable="true"
+            android:focusable="true" />
+
     </LinearLayout>
 </ScrollView>

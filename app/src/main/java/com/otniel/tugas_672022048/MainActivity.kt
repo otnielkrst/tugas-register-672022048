@@ -5,8 +5,7 @@ import android.widget.Toast
 import androidx.appcompat.app.AppCompatActivity
 import com.otniel.tugas_672022048.databinding.ActivityRegisterBinding
 
-class RegisterActivity : AppCompatActivity() {
-
+class MainActivity : AppCompatActivity() {
     private lateinit var binding: ActivityRegisterBinding
 
     override fun onCreate(savedInstanceState: Bundle?) {

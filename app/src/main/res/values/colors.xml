@@ -3,4 +3,5 @@
     <color name="hintText">#757575</color>
     <color name="buttonText">#FFFFFF</color>
     <color name="buttonBg">#6200EE</color>
+    <color name="purple_500">#6200EE</color>
 </resources>
